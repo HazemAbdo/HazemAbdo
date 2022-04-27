@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Hazem Abdo</h1>
-<h3 align="center">I'm a T-shaped learner with product management, entrepreneurship, marketing, and economics on his x-axis and with programming on his y-axis. Sometimes want to be on an isolated island with some coffee writing a piece of code may be in c++ or javascript or reading a book and sometimes want to give a speech or even moderate a session with 1000 attendees.</h3>
+<h3 align="center">I'm a T-shaped learner with product management and entrepreneurship on my x-axis and with programming on my y-axis.Sometimes I want to be on an isolated island with some coffee writing a piece of code may be in c++ or javascript or reading a book and sometimes want to moderate a session with 100 attendees.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemabdo&label=Profile%20views&color=0e75b6&style=flat" alt="hazemabdo" /> </p>
 
