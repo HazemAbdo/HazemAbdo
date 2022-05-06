@@ -5,10 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **html , css , javascript and opengl**
-
-- 📫 How to reach me **ha445770@gmail.com**
-
+- 🌱 I’m currently learning **javascript and opengl**
+- 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 📖 Currently Reading: "**The Modern JavaScript Tutorial**" by [@Ilya Kantor](https://www.linkedin.com/in/iliakan/?originalSubdomain=ru)
+- 🏃‍♂️ I am passionate about Front-End and product management.
+- 💬 Favourite Quotes: 
+ > “success= focus on one thing at a time” -omar itani
+ > “The more you know, the more you know you don't know” -Aristotle
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
