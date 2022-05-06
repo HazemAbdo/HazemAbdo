@@ -10,8 +10,10 @@
 - 📖 Currently Reading: "**The Modern JavaScript Tutorial**" by [@Ilya Kantor](https://www.linkedin.com/in/iliakan/?originalSubdomain=ru)
 - 🏃‍♂️ I am passionate about Front-End and product management.
 - 💬 Favourite Quotes: 
- > “success= focus on one thing at a time” -omar itani
+ > “success= focus on one thing at a time” -Omar Itani
+ 
  > “The more you know, the more you know you don't know” -Aristotle
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
