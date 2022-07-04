@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **javascript and opengl**
+- 🌱 I’m currently learning **Javascript,CSS and HTML**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 📖 Currently Reading: "**The Modern JavaScript Tutorial**" by [@Ilya Kantor](https://www.linkedin.com/in/iliakan/?originalSubdomain=ru) && "**Zero to one**" by [@peter thiel](https://www.linkedin.com/in/peterthiel)
+- 📖 Currently Reading: "**The Modern JavaScript Tutorial**" && "**Never split the difference**" 
 - 🏃‍♂️ I am passionate about Front-End and product management.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
