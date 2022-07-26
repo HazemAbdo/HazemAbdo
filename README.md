@@ -1,8 +1,6 @@
 <h1 align="center">I'm Hazem Abdo✋</h1>
 <h3 align="center">I'm a T-shaped learner with product management and entrepreneurship on the x-axis and with programming on the y-axis. Sometimes I want to be on an isolated island with some coffee writing a piece of code may be in c++ or javascript or reading a book and sometimes want to moderate a session with 100 attendees.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemabdo&label=Profile%20views&color=0e75b6&style=flat" alt="hazemabdo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript,CSS and HTML**
