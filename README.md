@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,CSS and HTML**
+- 🌱 I’m currently learning **Javascript and OODA**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - 📖 Currently Reading: "**The Modern JavaScript Tutorial**" &&"**Grokking Algorithms**"&& "**Never split the difference**" 
 - 🏃‍♂️ I am passionate about Front-End and product management.
