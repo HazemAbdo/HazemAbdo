@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript and OODA**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 📖 Currently Reading: "**The Modern JavaScript Tutorial**" &&"**Grokking Algorithms**"&& "**Never split the difference**" 
+- 📖 Currently Reading: "**The Modern JavaScript Tutorial**" &&"**Head first OOAD**" 
 - 🏃‍♂️ I am passionate about Front-End and product management.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
