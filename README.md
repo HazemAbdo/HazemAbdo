@@ -11,6 +11,8 @@
  > “success= focus on one thing at a time” -Omar Itani
  
  > “The more you know, the more you know you don't know” -Aristotle
+ 
+ > “There is no elevator to success, You have to take the stairs” -Zig Ziglar
 
 
 <h3 align="left">Connect with me:</h3>
