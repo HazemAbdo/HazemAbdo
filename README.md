@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and OODA**
+- 🌱 I’m currently learning **React and CSS**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 📖 Currently Reading: "**The Modern JavaScript Tutorial**" &&"**Head first OOAD**" 
+- 📖 Currently Reading: "**The Modern JavaScript Tutorial**"
 - 🏃‍♂️ I am passionate about Front-End and product management.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
