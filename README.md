@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **React and CSS**
+- 🌱 I’m currently learning **Deep learning and problem solving**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 - 📖 Currently Reading: "**Competitive Programmer’s Handbook**"
 - 🏃‍♂️ I am passionate about Front-End and product management.
