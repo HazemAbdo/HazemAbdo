@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and CSS**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 📖 Currently Reading: "**The Modern JavaScript Tutorial**"
+- 📖 Currently Reading: "**Competitive Programmer’s Handbook**"
 - 🏃‍♂️ I am passionate about Front-End and product management.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
