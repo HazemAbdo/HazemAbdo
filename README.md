@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning and problem solving**
+- 🌱 I’m currently learning **Next and SQL**
 - 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
-- 📖 Currently Reading: "**Competitive Programmer’s Handbook**"
+- 📖 Currently Reading: "**Practical SQL A Beginner’s Guide to Storytelling with Data**"
 - 🏃‍♂️ I am passionate about Front-End and product management.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
