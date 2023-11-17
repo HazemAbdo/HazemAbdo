@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Next and SQL**
 - 👨🏻‍💻 Software Engineer  <a href="https://www.coformatique.com/">@coformatique</a>
-- 📖 Currently Reading: "**Practical SQL A Beginner’s Guide to Storytelling with Data**"
-- 🏃‍♂️ I am passionate about Front-End and Data science.
+- 📖 Currently Reading: "**Kimball The Data Warehouse Toolkit**"
+- 🏃‍♂️ I am passionate about Front-End and Data engineering.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
  
