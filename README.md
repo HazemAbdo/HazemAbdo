@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **Next and SQL**
+- 🌱 I’m currently learning **Dimensional Modeling**
 - 👨🏻‍💻 Software Engineer  <a href="https://www.coformatique.com/">@coformatique</a>
 - 📖 Currently Reading: "**Kimball The Data Warehouse Toolkit**"
 - 🏃‍♂️ I am passionate about Front-End and Data engineering.
@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/hazemabdo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hazemabdo/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Hazoom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hazoom" height="30" width="40" /></a>
  <a href="https://medium.com/@hazemabdoabdrbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hazemabdoabdrbo" height="30" width="40" /></a>
+  <a href="https://leetcode.com/hazemabdoabdrbo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@hazemabdoabdrbo" height="30" width="40" /></a>
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
