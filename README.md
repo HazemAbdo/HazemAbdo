@@ -1,12 +1,14 @@
 <h1 align="center">I'm Hazem Abdo✋</h1>
-<h3 align="center">I'm a T-shaped learner with product management and entrepreneurship on the x-axis and with programming on the y-axis. Sometimes I want to be on an isolated island with some coffee writing a piece of code may be in c++ or javascript or reading a book and sometimes want to moderate a session with 100 attendees.</h3>
+<h3 align="center">I’m a T-shaped learner with product management and entrepreneurship on my x-axis and software engineering
+on my y-axis, especially front-end development. Sometimes I want to be on an isolated island with some coffee,
+writing a piece of code, maybe in JavaScript or Python, or reading a book. At other times, I enjoy moderating a
+session with a large audience.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
-- 🌱 I’m currently learning **Dimensional Modeling**
+- 🌱 I’m currently learning **React native && Docker**
 - 👨🏻‍💻 Software Engineer  <a href="https://www.coformatique.com/">@coformatique</a>
-- 📖 Currently Reading: "**Kimball The Data Warehouse Toolkit**"
-- 🏃‍♂️ I am passionate about Front-End and Data engineering.
+- 🏃‍♂️ I am passionate about Front-End.
 - 💬 Favourite Quotes: 
  > “success= focus on one thing at a time” -Omar Itani
  
