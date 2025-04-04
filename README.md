@@ -1,8 +1,5 @@
 <h1 align="center">I'm Hazem Abdo✋</h1>
-<h3 align="center">I’m a T-shaped learner with product management and entrepreneurship on my x-axis and software engineering
-on my y-axis, especially front-end development. Sometimes I want to be on an isolated island with some coffee,
-writing a piece of code, maybe in JavaScript or Python, or reading a book. At other times, I enjoy moderating a
-session with a large audience.</h3>
+<h3 align="center">Dedicated software engineer with almost 2 years of experience and a T-shaped skill set, encompassing product management and entrepreneurship on one axis and a strong foundation in software engineering, particularly in front-end development, on the other. Proficient in modern web development technologies, I thrive in both collaborative and independent environments. I am passionate about creating innovative solutions and improving user experiences. Additionally, I have experience in leading teams, discussions, and presentations, demonstrating strong communication skills, analytical skills, and leadership abilities.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemabdo" alt="hazemabdo" /></a> </p>
 
